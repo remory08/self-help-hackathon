@@ -1,0 +1,23 @@
+{
+  "name": "self-help-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remory08/self-help-hackathon.git"
+  },
+  "author": "Ryne Emory and Alexandre Rubadeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remory08/self-help-hackathon/issues"
+  },
+  "homepage": "https://github.com/remory08/self-help-hackathon",
+  "dependencies": {
+    "monk": "^1.0.1",
+    "mustache": "^2.1.2"
+  }
+}
