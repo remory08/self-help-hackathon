@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/remory08/self-help-hackathon",
   "dependencies": {
+    "mime": "^1.3.4",
     "monk": "^1.0.1",
-    "mustache": "^2.1.2"
+    "mustache": "^2.1.2",
+    "qs": "^4.0.0"
   }
 }

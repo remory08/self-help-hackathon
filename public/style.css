@@ -1,0 +1,16 @@
+.button {
+  font-size: 50px;
+  color: white;
+  background-color: rgb(116, 149, 247);
+  width: 30%;
+  height: auto;
+
+}
+
+.timeRunning {
+  visibility: hidden;
+}
+
+.startOption {
+  visibility: visible;
+}
